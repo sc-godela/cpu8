@@ -1,0 +1,12 @@
+vivado/
+*.jou
+*.log
+*.str
+*.wdb
+.Xil/
+xsim.dir/
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
