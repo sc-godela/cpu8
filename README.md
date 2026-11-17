@@ -49,8 +49,8 @@ cpu8/
 | Step | Block | Status |
 |---|---|---|
 | 0 | basic_gates + testbench | Done, tests pass |
-| 1 | cpu_pkg (constants, types) | In progress |
-| 2 | ALU + testbench | |
+| 1 | cpu_pkg (constants, types) | Done |
+| 2 | ALU + testbench | Done, 11/11 tests pass |
 | 3 | Register file | |
 | 4 | Program counter | |
 | 5 | Instruction register | |
